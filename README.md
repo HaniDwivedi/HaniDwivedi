@@ -1,16 +1,104 @@
-## Hi there 👋
-
-![Hani's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaniDwivedi&show_icons=true&theme=radial)
-
-### 🚀 About Me
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
-### 📊 My GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaniDwivedi&layout=compact&theme=radial)
-
----
-
-![Visitors](https://komarev.com/ghpvc/?username=HaniDwivedi&color=blue)
+{
+  "version": "1.0.0",
+  "exportedAt": "2026-05-31T08:40:58.145Z",
+  "profile": {
+    "title": "Hani Dwivedi",
+    "subtitle": "A passionate full-stack developer and AI/ML enthusiast from India 🚀",
+    "currentWork": "a MERN Stack project and integrating AI models",
+    "currentLearn": "GraphQL, TypeScript, and Advanced Machine Learning algorithms",
+    "collaborateOn": "Open Source AI tools and Full-Stack applications",
+    "helpWith": "Open Source AI tools and Full-Stack applications",
+    "ama": "React, Node.js, Python, and Web Development",
+    "contact": "dwivedihani900@gmail.com",
+    "funFact": "i think i can do anything ",
+    "visitorsBadge": false,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": false,
+    "githubStats": false,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": false,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": false,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "https://portfolio-hani-dwivedi.onrender.com/",
+    "blog": "",
+    "resume": ""
+  },
+  "social": {
+    "github": "HaniDwivedi",
+    "dev": "",
+    "linkedin": "Https://www.linkedin.com/in/hani-dwivedi-80169b303",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "",
+    "instagram": "",
+    "twitter": "",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "",
+    "codechef": "",
+    "hackerrank": "",
+    "codeforces": "",
+    "leetcode": "leetcode.com/hani_dwivedi",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "",
+    "discord": "",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "bootstrap",
+    "c",
+    "cplusplus",
+    "css3",
+    "express",
+    "flask",
+    "git",
+    "html5",
+    "javascript",
+    "mongodb",
+    "mysql",
+    "nodejs",
+    "numpy",
+    "pandas",
+    "postgresql",
+    "postman",
+    "python",
+    "react"
+  ]
+}
