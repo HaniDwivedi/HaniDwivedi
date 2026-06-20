@@ -131,19 +131,27 @@ class HaniDwivedi:
 
 ---
 
-## 🚀 Open Source Contributions
+---
 
-Main actively open-source projects mein contribute karta hoon. Mere kuch major contributions niche hain:
+## 🏆 GitHub Trophies & Stats
 
-* **[sentry-javascript](https://github.com/getsentry/sentry-javascript)** - Is popular error monitoring tool ke SDK mein bugs resolve kiye aur performance improve ki.
-* **[nx](https://github.com/nrwl/nx)** - Monorepos aur toolings ke ecosystem mein features optimize karne mein help ki.
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=HaniDwivedi&theme=tokyonight&column=7" alt="GitHub Trophies" />
+  </a>
 
-### 📊 Recent Contributions & Activity
+  <br /><br />
 
-> **Note:** To enable the snake animation, add a GitHub Actions workflow in your profile repo. See instructions below 👇
+  <img src="https://github-readme-stats.vercel.app/api?username=HaniDwivedi&show_icons=true&theme=tokyonight&rank_icon=github" alt="Hani's GitHub Stats" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaniDwivedi&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</div>
 
-<details>
-<summary><b>⚡ Enable Snake Animation</b></summary>
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaniDwivedi&theme=tokyonight" alt="GitHub Streak" width="97%" />
+</div>
 
 Create `.github/workflows/snake.yml` in your profile repo with:
 
