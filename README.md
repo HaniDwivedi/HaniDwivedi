@@ -131,11 +131,14 @@ class HaniDwivedi:
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten
+## 🚀 Open Source Contributions
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/HaniDwivedi/HaniDwivedi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+Main actively open-source projects mein contribute karta hoon. Mere kuch major contributions niche hain:
+
+* **[sentry-javascript](https://github.com/getsentry/sentry-javascript)** - Is popular error monitoring tool ke SDK mein bugs resolve kiye aur performance improve ki.
+* **[nx](https://github.com/nrwl/nx)** - Monorepos aur toolings ke ecosystem mein features optimize karne mein help ki.
+
+### 📊 Recent Contributions & Activity
 
 > **Note:** To enable the snake animation, add a GitHub Actions workflow in your profile repo. See instructions below 👇
 
