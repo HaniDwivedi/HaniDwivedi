@@ -99,11 +99,13 @@ class HaniDwivedi:
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HaniDwivedi&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
-</div>
+
+
+## 🏆 My GitHub Trophy
+<img src="https://gh-trophy.cdnsoft.net/?username=HaniDwivedi&theme=algolia&column=-1" alt="GitHub_Trophies" />  
+
+-
 
 ---
 
